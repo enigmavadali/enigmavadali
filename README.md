@@ -24,3 +24,13 @@ A full-time backend developer turned full-time student. I like dabbling into new
 <a href="https://www.postman.com/" target="_blank"> <img align="left" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" height="42px"/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img align="left" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="42px"/> </a>
 <a href="https://www.docker.com/" target="_blank"> <img align="left" src="https://www.vectorlogo.zone/logos/docker/docker-tile.svg" alt="docker" height="42px"/> </a>
+<br>
+<br>
+---
+
+## My GitHub Stats:
+![Rohit's github stats](https://github-readme-stats.vercel.app/api?username=enigmavadali&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&count_private=true&include_all_commits=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=enigmavadali&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=enigmavadali&theme=dark)](https://git.io/streak-stats)
+
+
