@@ -7,7 +7,7 @@
 <img align="right" alt="GIF" src="https://github.com/enigmavadali/enigmavadali/blob/a876db805d8740ae8dbfcc6e6574fe124c6e473e/assets/developer.gif" width="170px" height="130px" />
 
 A full-time backend developer turned full-time student. I like dabbling into new technologies :technologist: and new recipes :man_cook:
-- Currently a Masters in CS student at [UC Irvine](https://mcs.ics.uci.edu/)
+- Currently a Masters of CS student at [UC Irvine](https://mcs.ics.uci.edu/)
 - Checkout my [portfolio]()
 
 ### Tech I work on:
