@@ -31,6 +31,7 @@ A full-time backend developer turned full-time student. I like dabbling into new
 <a href="https://www.postman.com/" target="_blank"> <img align="left" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" height="42px"/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img align="left" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="42px"/> </a>
 <a href="https://www.docker.com/" target="_blank"> <img align="left" src="https://www.vectorlogo.zone/logos/docker/docker-tile.svg" alt="docker" height="42px"/> </a>
+<a href="https://www.netlify.com/" target="_blank"> <img align="left" src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="netlify" height="42px"/> </a>
 <br>
 <br>
 ---
