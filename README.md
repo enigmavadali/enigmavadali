@@ -8,7 +8,7 @@
 
 A full-time backend developer turned full-time student. I like dabbling into new technologies :technologist: and new recipes :man_cook:
 - Currently a Masters of CS student at [UC Irvine](https://mcs.ics.uci.edu/)
-- Checkout my [portfolio]()
+- Checkout my [portfolio](https://rohitvadali.netlify.app/)
 
 ### Tech I work on:
 <a href="https://www.java.com/en/" target="_blank"> <img align="left" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" height="42px"/> </a>
