@@ -18,6 +18,7 @@ A full-time backend developer turned full-time student. I like dabbling into new
 <a href="https://www.djangoproject.com/" target="_blank"> <img align="left" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" alt="django" height="42px"/> </a>
 <a href="https://react.dev/" target="_blank"> <img align="left" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" height="42px"/> </a>
 <a href="https://aws.amazon.com/" target="_blank"> <img align="left" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" height="42px"/> </a>
+<a href="https://kafka.apache.org/" target="_blank"> <img align="left" src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" height="42px"/> </a>
 <a href="https://www.rabbitmq.com/" target="_blank"> <img align="left" src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitmq" height="42px"/> </a>
 <a href="https://www.elastic.co/" target="_blank"> <img align="left" src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elastic" height="42px"/> </a>
 <a href="https://www.postgresql.org/" target="_blank"> <img align="left" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgres" height="42px"/> </a>
